@@ -17,7 +17,9 @@
    background-color: #999999; 
    padding: 10px,10px,10px,10px;
    border: 2px solid black;
-   margin: 40px;
+   margin-top: 40px;
+   margin-left: 20px;
+   margin-bottom: 40px;
    width: 300px;
   }
 
